@@ -15,10 +15,10 @@
   url = "/specs/"
   weight = 10
 
-# [[main]]
-#   name = "Blog"
-#   url = "/blog/"
-#   weight = 20
+[[main]]
+  name = "Issue"
+  url = "/issue/"
+  weight = 30
 
 [[social]]
   name = "GitHub"
