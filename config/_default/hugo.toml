@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 title = "SustainED"
+=======
+title = "EchoSchool"
+>>>>>>> d5c3e1c0a14cd3f807d6a3aa701917c64a834d0a
 baseurl = "/"
 canonifyURLs = false
 disableAliases = true
