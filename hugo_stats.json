@@ -7,12 +7,14 @@
       "button",
       "circle",
       "code",
+      "details",
       "div",
       "footer",
       "form",
       "g",
       "h1",
       "h2",
+      "h3",
       "h5",
       "head",
       "header",
@@ -27,6 +29,7 @@
       "meta",
       "nav",
       "noscript",
+      "ol",
       "p",
       "path",
       "script",
@@ -35,6 +38,7 @@
       "span",
       "strong",
       "style",
+      "summary",
       "svg",
       "template",
       "time",
@@ -44,6 +48,7 @@
     "classes": [
       "DocSearch-Label",
       "active",
+      "anchor",
       "bg-dots",
       "blog-header",
       "btn",
@@ -196,18 +201,28 @@
       "wrap"
     ],
     "ids": [
+      "TableOfContents",
       "buttonColorMode",
+      "carbon-capture",
+      "features",
+      "glass-glazing",
       "hello",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "query",
+      "rainwater-harvesting",
       "search-form",
       "searchModal",
       "searchModalLabel",
       "searchResults",
       "searchToggleDesktop",
       "searchToggleMobile",
-      "socialMenu"
+      "socialMenu",
+      "solar-chimmy",
+      "solar-pannels",
+      "thermal-insulation",
+      "toc",
+      "water-containers"
     ]
   }
 }
