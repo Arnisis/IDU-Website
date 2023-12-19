@@ -1,7 +1,6 @@
 ---
 title: "The Problem"
-description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
-summary: ""
+description: ""
 date: 2023-09-07T16:04:48+02:00
 lastmod: 2023-09-07T16:04:48+02:00
 draft: false
@@ -18,4 +17,4 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.
+Climate change is most important and the vital issue that is going on the whole world right now, in order to solve it. Our scientists have found an alternative solution to the problem of global warming and fossil fuel depletion. This solution is known as use of renewable sources of energy. These renewable sources of emit no carbon and utilize the resources that are highly abundant in the Earth's atmosphere.
